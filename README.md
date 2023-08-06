@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">Student at the Technical University of Sofia, doing bachelor's degree in Aerospace engineering. Student at Softuni, building up my skills for a Full-Stack Developer!</h3>
 
+<img width="400" height="400" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=790b7611q1whc72pfyw1tmy08unq4ot557lzfmlvfg87t8c6&ep=v1_gifs_search&rid=200w.gif&ct=g" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deyordanov&label=Profile%20views&color=0e75b6&style=flat" alt="deyordanov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deyordanov" alt="deyordanov" /></a> </p>
