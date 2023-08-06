@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
 <h3 align="center">Student at the Technical University of Sofia, doing bachelor's degree in Aerospace engineering. Student at Softuni, building up my skills for a Full-Stack Developer!</h3>
 
-<img align="right" alt="CODE" width="400" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" />
+<img align="right" alt="CODE" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZ2NjI1dnY0OTJxa3l4em9kaW1nMnU1enh0dWJqbWY5dmlqYWRjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deyordanov&label=Profile%20views&color=0e75b6&style=flat" alt="deyordanov" /> </p>
 
