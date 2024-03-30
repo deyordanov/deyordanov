@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/denis-yordanov-305828283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denis-yordanov-305828283" height="30" width="40" /></a>
 <a href="https://instagram.com/denis.yordanov.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="denis.yordanov.3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deyordanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deyordanov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
