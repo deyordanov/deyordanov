@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
-<h3 align="center">Student at the Technical University of Sofia, doing bachelor's degree in Aerospace engineering. Student at Softuni, building up my skills for a Full-Stack Developer!</h3>
+<h3 align="center"> Full Stack Developer at SoftUni and a student at the Technical University of Sofia, doing a bachelor's degree in Aeronautical engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deyordanov&label=Profile%20views&color=0e75b6&style=flat" alt="deyordanov" /> </p>
 
